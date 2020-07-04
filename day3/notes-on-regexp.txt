@@ -1,0 +1,14 @@
+regexp 
+
+	operations 
+	
+	a. pattern matching 
+	b. find & replacement 
+	c. split 
+
+characteristics of regular expression 
+	i. case sensitive 
+	ii. match for the  sub strings  'sun' in sunflower
+	iii. greedy in nature 
+
+

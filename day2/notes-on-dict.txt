@@ -1,0 +1,16 @@
+dict aka dict aka hash aka maps aka hash-tables 
+	(key => value) pair
+	keys (unique)
+
+
+why dict?
+	- lookup database (DNS lookup), nosql 
+	- mis (empid => emp-info)
+
+
+searching list vs dict 
+	list as well as dict (n elements)
+	time-complex
+
+		list O(n)
+		dict O(1)

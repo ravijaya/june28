@@ -1,0 +1,14 @@
+-rw-r--r-- 1 ravijaya ravijaya     109 Jun 21 10:35 contacts.csv
+-rw-r--r-- 1 ravijaya ravijaya      42 Jun 21 10:48 content
+-rw-r--r-- 1 ravijaya ravijaya      60 Jun 21 10:22 data.dat
+-rw-r--r-- 1 ravijaya ravijaya     435 Jun 21 09:56 demoregexpgrouping.tcl
+-rw-r--r-- 1 ravijaya ravijaya     237 Jun 21 11:36 demoregexpsub.tcl
+-rw-r--r-- 1 ravijaya ravijaya     223 Jun 21 11:58 demoregexsplit.tcl
+-rw-r--r-- 1 ravijaya ravijaya     167 Jun 21 11:49 demosed.tcl
+-rw-r--r-- 1 ravijaya ravijaya     164 Jun 21 11:25 demowordboundary.tcl
+-rw-r--r-- 1 ravijaya ravijaya       0 Jun 21 12:00 listing.dat
+-rw-r--r-- 1 ravijaya ravijaya     674 Jun 21 11:26 logparser.tcl
+-rw-r--r-- 1 ravijaya ravijaya 1622991 Jun 21 09:49 messages.log
+-rw-r--r-- 1 ravijaya ravijaya     219 Jun 21 09:12 notes-on-regexp.txt
+-rw-r--r-- 1 ravijaya ravijaya    2789 Jun 21 11:40 passwd.txt
+-rw-r--r-- 1 ravijaya ravijaya     235 Jun 21 09:28 regexpmatch.tcl

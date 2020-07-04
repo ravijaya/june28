@@ -1,0 +1,4 @@
+list aka array
+	-ordered collection of the element 
+
+

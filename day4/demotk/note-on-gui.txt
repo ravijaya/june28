@@ -1,0 +1,27 @@
+	
+	objects
+	~~~~~~
+
+	window  (.)
+
+------------------
+	frames (container for the UI)
+----------------------------------
+	 UI aka widgets  (text, button radio)	
+
+
+
+Geo Manager 
+~~~~~~~~~~
+	grid 
+
+		0  1 
+	 0	x  x
+	 1	y  Z
+
+
+	   upper (N)
+		
+left(W)			right (E)
+			
+	    down  (s)

@@ -1,0 +1,9 @@
+Welcome,
+
+Attached is a screenshot that talks shows sample screenshot of Eclipse and
+DLTK that is used to develop Tcl/Tk applications from chapter 1.
+
+See the attached file for details.
+
+<Company name goes here>
+

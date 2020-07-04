@@ -1,0 +1,15 @@
+regexp
+
+	operations 
+		i. pattern match
+		ii. find & replacement 
+		iii. split 
+
+characteristics
+	i. case sensitive 
+	ii. match only once in a line 
+	iii. match for the sub string {sun in sunflower}
+	iv. greedy in nature 
+
+metacharaters
+

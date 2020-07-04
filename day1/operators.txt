@@ -1,0 +1,23 @@
+arthimetic operator 
+
+ 	+, -, *, /, %, **
+
+
+relational operator 
+>, >=, <, <==, ==, !=
+
+
+logical operator 
+
+&&, ||, !
+
+bitwise operator 
+	or - |
+   and - &
+  exor - ^
+right shift >> 
+left << 
+
+syntax for the Ternary Operator
+
+test-condition?true-part-expr:false-part-expr 

@@ -1,0 +1,8 @@
+[Sun Jun 28 08:15:33 IST 2020] [emergency] some message
+[Sun Jun 28 08:15:33 IST 2020] [alert    ] some message
+[Sun Jun 28 08:15:33 IST 2020] [critical ] some message
+[Sun Jun 28 08:15:33 IST 2020] [error    ] some message
+[Sun Jun 28 08:15:33 IST 2020] [warning  ] some message
+[Sun Jun 28 08:15:33 IST 2020] [notice   ] some message
+[Sun Jun 28 08:15:33 IST 2020] [info     ] some message
+[Sun Jun 28 08:15:33 IST 2020] [debug    ] some message

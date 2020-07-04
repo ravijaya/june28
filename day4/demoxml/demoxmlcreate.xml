@@ -1,0 +1,22 @@
+package require tdom
+set doc [dom createDocument books]
+set root [$doc documentElement]
+set book [$doc createElement book]
+$book setAttribute isbn "978-1-849510-96-7908"
+set title [$doc createElement title]
+$title appendChild [$doc createTextNode "Perl and Python Programming"]
+$book appendChild $title
+set authors [$doc createElement authors]
+$book appendChild $authors
+set authorNames [list "Piotr nayak" "allen peter"]
+foreach authorName $authorNames {
+set author [$doc createElement author]
+$author appendChild [$doc createTextNode $authorName]
+$authors appendChild $author
+}
+$root appendChild $book
+set channel [open output.xml w]
+fconfigure $channel -encoding utf-8
+$doc asXML -channel $channel
+close $channel
+

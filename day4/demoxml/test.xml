@@ -1,0 +1,9 @@
+<books>
+    <book isbn="1978-1-849510-96-7">
+        <title>Perl Network Programming</title>
+        <authors>
+            <author>Piotr Bełtowski ci</author>
+            <author>Wojciech Kocjan pan</author>
+        </authors>
+    </book>
+</books>

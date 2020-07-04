@@ -1,0 +1,6 @@
+				text 		binary 
+
+read			r			rb
+write 			w			wb
+append 			a			ab
+
